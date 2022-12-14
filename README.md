@@ -1,8 +1,6 @@
 
-# COMP2013 Developing Maintainable Software - Breakout
+# Developing Maintainable Software - Breakout
 - Name: Sahil Rai
-- Student Number: 20186501
-- Email: efysr3@nottingham.ac.uk
 
 ## How to compile the code and run the application
 - Right click on StartGame then click Run or Click ► icon on top right window
