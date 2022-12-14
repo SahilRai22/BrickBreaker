@@ -1,7 +1,5 @@
 
 # Developing Maintainable Software - Breakout
-- Name: Sahil Rai
-
 ## How to compile the code and run the application
 - Right click on StartGame then click Run or Click ► icon on top right window
 - Tested on MacOS, Java version "17.0.1", JavaFX "17.0.1"
