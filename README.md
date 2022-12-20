@@ -1,10 +1,10 @@
 
 # Developing Maintainable Software - Breakout
 <p align="center" >
-![HomeScreen](https://user-images.githubusercontent.com/4998533/207481159-b4f8561e-f161-4977-a4c4-52d2013c80f8.png)
+<img width="546" alt="Screenshot 2022-12-20 at 13 28 10" src="https://user-images.githubusercontent.com/4998533/208678133-61b45e03-d08f-4319-87b7-828070dc3ce0.png">
 </p>
 <p align="center" >
-![GamePlay](https://user-images.githubusercontent.com/4998533/207481167-6ee3cb29-8f2c-45f3-985a-7e58a94ecea5.png)
+<img width="602" alt="Screenshot 2022-12-20 at 13 28 32" src="https://user-images.githubusercontent.com/4998533/208678195-db15a128-9b43-44d2-9f8b-5589584af4ed.png">
 </p>
 ## How to compile the code and run the application
 - Right click on StartGame then click Run or Click ► icon on top right window
