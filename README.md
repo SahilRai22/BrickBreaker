@@ -1,8 +1,11 @@
 
 # Developing Maintainable Software - Breakout
+<p align="center" >
 ![HomeScreen](https://user-images.githubusercontent.com/4998533/207481159-b4f8561e-f161-4977-a4c4-52d2013c80f8.png)
+</p>
+<p align="center" >
 ![GamePlay](https://user-images.githubusercontent.com/4998533/207481167-6ee3cb29-8f2c-45f3-985a-7e58a94ecea5.png)
-
+</p>
 ## How to compile the code and run the application
 - Right click on StartGame then click Run or Click ► icon on top right window
 - Tested on MacOS, Java version "17.0.1", JavaFX "17.0.1"
